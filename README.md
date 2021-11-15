@@ -8,7 +8,7 @@ I am a Software Engineer💻 I like to build solutions💡
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@akash16s)
 
 
-<img src="https://user-images.githubusercontent.com/31439661/141798558-95dcbb6d-a80c-4f58-8f67-22ce660e4b31.png" width="300" height="250">
+<img src="https://user-images.githubusercontent.com/31439661/141798558-95dcbb6d-a80c-4f58-8f67-22ce660e4b31.png" width="400" height="340">
 
 #### Talking about Personal Stuffs:
 
