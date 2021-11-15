@@ -16,5 +16,4 @@ I am a Software Engineer💻 I like to build solutions💡
 - ✍ Writes at [medium](https://medium.com/@akash16s) and [hashnode](https://hashnode.com/@Akash16s)
 - 💬 Talk to me about anything related to Startups, Tech, Physics, Finance, Fitness.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash16s&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash16s&show_icons=true&theme=radical)
