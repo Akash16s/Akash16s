@@ -12,6 +12,6 @@ I am a Software Engineer💻 I like to build solutions💡
 
 #### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on [Kryptoskatt](https://kryptoskatt.com)
+- 🔭 Currently Building [Kryptoskatt](https://kryptoskatt.com)
 - ✍ Writes at [medium](https://medium.com/@akash16s) and [hashnode](https://hashnode.com/@Akash16s)
 - 💬 Talk to me about anything related to Startups, Tech, Physics, Finance, Fitness.
