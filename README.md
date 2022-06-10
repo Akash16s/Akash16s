@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://akash16s.github.io/" target="_blank">Akash Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://akash16s.github.io/" target="_blank">Akash Srivastava</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="20">
 
 I am a Software Engineer💻 I like to build solutions💡
 
